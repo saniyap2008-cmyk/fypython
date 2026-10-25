@@ -1,0 +1,6 @@
+print("Powers of 10:")
+print("x      y      x**y ")
+print(f"10     2       {10 ** 2}")
+print(f"10     3       {10 ** 3}")
+print(f"10     4       {10 ** 4}")
+print(f"10     5       {10 ** 5}")

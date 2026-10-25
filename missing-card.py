@@ -1,0 +1,7 @@
+c1 = int(input("Enter the number on the first card: "))
+c2 = int(input("Enter the number on the second card: "))
+c3 = int(input("Enter the number on the third card: "))
+c4 = int(input("Enter the number on the fourth card: "))
+total = int(input("Enter the sum of all cards: "))
+c5 = total - (c1 + c2 + c3 + c4)
+print (f"The card that is missing is number {c5}")

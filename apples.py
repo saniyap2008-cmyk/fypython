@@ -1,0 +1,6 @@
+Num = int(input("Enter the total number of students: "))
+App = int(input("Enter the tota; number of apples: "))
+each = int(App / Num)
+basket = int(App % Num)
+print(f"The number of apples each student receives: {each}")
+print(f"The number of apples left in the basket: {basket}")
